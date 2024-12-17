@@ -1,4 +1,4 @@
-# Cleber Gonçalves  
+# <span style="color: #ff4500; text-shadow: 2px 2px 5px rgba(0,0,0,0.7);">Cleber Gonçalves</span>  
 
 🦇 **Bem-vindo ao meu domínio digital!** 🦇  
 Sou um explorador do submundo da programação, navegando nas sombras do backend com Python como minha principal arma. Movido pela curiosidade, desvendar outras linguagens é parte do meu eterno aprendizado.  
@@ -7,7 +7,7 @@ Sou um explorador do submundo da programação, navegando nas sombras do backend
 
 ---
 
-## Conecte-se Comigo  
+## <span style="color: #ff4500; text-shadow: 2px 2px 5px rgba(0,0,0,0.7);">Conecte-se Comigo</span>  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cleberton-gon%C3%A7alves-53001a20b/)  
 [![HackerRank](https://img.shields.io/badge/HackerRank-000000?style=for-the-badge&logo=hackerrank&logoColor=green)](https://www.hackerrank.com/profile/cleberton_gonca1)  
@@ -16,7 +16,7 @@ Sou um explorador do submundo da programação, navegando nas sombras do backend
 
 ---
 
-## Estatísticas do GitHub  
+## <span style="color: #ff4500; text-shadow: 2px 2px 5px rgba(0,0,0,0.7);">Estatísticas do GitHub</span>  
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Meowkay92&show_icons=true&theme=dark&bg_color=000&border_color=555&icon_color=9b111e&title_color=ff4500&text_color=ffffff&hide_border=true" alt="Estatísticas do GitHub">
@@ -25,16 +25,17 @@ Sou um explorador do submundo da programação, navegando nas sombras do backend
 
 ---
 
-## Ferramentas das Sombras  
+## <span style="color: #ff4500; text-shadow: 2px 2px 5px rgba(0,0,0,0.7);">Ferramentas das Sombras</span>  
 
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=red)  
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=yellow)  
 ![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=purple)  
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)  
 
 ---
 
-## Contribuições  
+## <span style="color: #ff4500; text-shadow: 2px 2px 5px rgba(0,0,0,0.7);">Contribuições</span>  
 
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Meowkay92&repo=dio-lab-open-source&bg_color=000&border_color=555&show_icons=true&icon_color=9b111e&title_color=ff4500&text_color=ffffff&hide_border=true)](https://github.com/Meowkay92/dio-lab-open-source)  
 
